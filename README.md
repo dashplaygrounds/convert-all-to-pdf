@@ -1,4 +1,5 @@
 # Convert all to pdf
+Note: The outputs are in excel-output/, pptx-output/, and word-output/ directories as they are processed in batch mode.
 
 Instructions
 
