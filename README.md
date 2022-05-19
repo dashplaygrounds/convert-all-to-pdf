@@ -7,11 +7,13 @@ Instructions
 
 For windows:  
 > $ . env/Scripts/activate - using gitbash  
-> env\Scripts\activate.bat - using cmd  
+> $ env\Scripts\activate.bat - using cmd  
+
 For mac/linux:  
 > $ . env/bin/activate  
 
 2. Pip install libraries  
+
 For excel to pdf:  
 > $ pip install win32com, comtypes  
 
