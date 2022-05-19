@@ -16,7 +16,7 @@ For mac/linux:
 2. Pip install libraries  
 
 For excel to pdf:  
-> $ pip install win32com, comtypes  
+> $ pip install pywin32, comtypes  
 
 For powerpoint to pdf:  
 > $ pip install comtypes  
