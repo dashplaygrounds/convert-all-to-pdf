@@ -30,3 +30,6 @@ To make executable:
 
 3. Convert to executable  
 > $ pyinstaller --onefile main.py  
+
+4. Run executable by opening cmd  
+> $ start main.exe
